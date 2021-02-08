@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm Rafael 👋
+
+- 🔭 I’m currently working on EGE Studios
+- 🌱 I’m currently learning Computer Engineering
+- 👯 I’m looking to collaborate on [Next](https://github.com/reitmas32/Next)
+- 📫 How to reach me: [Twitter](https://twitter.com/rafazram)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reitmas32&layout=compact)](https://github.com/reitmas32/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reitmas32)](https://github.com/reitmas32/github-readme-stats)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -22,17 +30,3 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<!--
-**reitmas32/reitmas32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
